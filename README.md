@@ -1,6 +1,6 @@
 # <center>:bulb: Prueba técnica Gana Energía (BACKEND) :bulb:</center>
 
-La parte del frontend esta en el siguiente [repositorio]().
+La parte del frontend esta en el siguiente [repositorio](https://github.com/alvaroo243/frontend_gana).
 
 ## :round_pushpin: Índice
 
