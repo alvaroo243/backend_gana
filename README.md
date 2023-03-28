@@ -2,7 +2,7 @@
 
 La parte del frontend esta en el siguiente [repositorio]().
 
-## Índice
+## :round_pushpin: Índice
 
 - [El proyecto](#el-proyecto)
 
@@ -18,9 +18,9 @@ La parte del frontend esta en el siguiente [repositorio]().
 
 ---
 
-# El proyecto
+# :battery: El proyecto :battery:
 
-## Instalacion y despliegue
+## :bangbang: Instalacion y despliegue
 
 El proyecto estará subido en un repositorio público de GitHub.
 
@@ -45,9 +45,7 @@ npm run dev
 Al iniciar el frontend se abrirá una ventana nueva en el navegador predeterminado del equipo.
 Cabe añadir que para que funcione todo bien hay que iniciar primero el backend para que se inicie en el puerto 3000, ya que los repositorios estan programados para trabajar en local.
 
----
-
-## Tecnologías y packages utilizados
+## :computer: Tecnologías y packages utilizados
 
 - [MongoDB](https://www.mongodb.com/)
 - [NodeJS](https://nodejs.org/)
@@ -56,9 +54,7 @@ Cabe añadir que para que funcione todo bien hay que iniciar primero el backend 
 - Nodemon
 - [Postman](https://www.postman.com/)
 
----
-
-## Objetivos
+## :dart: Objetivos
 
 Los objetivos de la actividad eran:
 
@@ -68,7 +64,7 @@ Los objetivos de la actividad eran:
 
 ---
 
-# Conclusión
+# :scroll: Conclusión
 
 Mi backend al final para mi ha quedado muy bien ya que no tenia tanta complicacion como en el frontend. Pero pienso que para haber sido la primera vez que veo MongoDb lo he entendido y he hecho bastante bien; aunque esta claro que bien del todo no lo tendre porque se podrá hacer de muchas formas más eficientes.
 
@@ -76,6 +72,6 @@ He de decir también que agradezco haber participado en el backend de esta prueb
 
 ---
 
-# Autor
+# :bust_in_silhouette: Autor
 
 - [Álvaro Gómez Mollá](https://github.com/alvaroo243)
