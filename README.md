@@ -2,7 +2,27 @@
 
 La parte del frontend esta en el siguiente [repositorio]().
 
-## :round_pushpin: Índice
+## :round_pushpin:
+<details>
+    <summary>Índice</summary>
+    <ol>
+    <li>
+      <a href="#el-proyecto">Sobre el proyecto</a>
+      <ul>
+        <li><a href="#hecho-con">Hecho con</a></li>
+      </ul>
+    </li>
+    <li>
+      <ul>
+        <li><a href="#installacion">Instalación</a></li>
+      </ul>
+    </li>
+    <li><a href="#testing">Testing</a></li>
+    <li><a href="#licencia">Licencia</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#agradecimientos">Agradecimientos</a></li>
+  </ol>
+</details>
 
 - [El proyecto](#el-proyecto)
 
